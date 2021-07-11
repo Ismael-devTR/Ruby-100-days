@@ -1,0 +1,12 @@
+# Can hash values be arrays? Can you have an array of hashes? (give examples)
+
+RESPONSE =  yes
+
+EXAMPLES: 
+
+hash = { name: ["bob","tris","susan"] }
+
+arr = [
+		{name: "tris", last_name: "romero"},
+		{name: "None", last_name: "oxoxoxo"}
+	]
